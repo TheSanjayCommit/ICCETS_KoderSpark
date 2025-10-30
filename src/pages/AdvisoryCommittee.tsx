@@ -29,6 +29,13 @@ const AdvisoryCommittee = () => {
                   <p className="text-lg text-foreground">5. Dr. Geno Peter, Professor, University of Technology Sarawak, Malaysia</p>
                   <p className="text-lg text-foreground">6. Dr. Mahajan Sagar Bhaskar, Professor, Prince Sultan University, Saudi Arabia</p>
                   <p className="text-lg text-foreground">7.  Dr.Cristina Efremov, Associate Professor, Technical University of Moldova, Moldova.</p>
+                  <p className="text-lg text-foreground">8.  Dr. Atif Iqbal, Professor, Qatar University.</p>
+                  <p className="text-lg text-foreground">9.  Dr. Akhtar kalam, Professor, Victoria university, Australia.</p>
+                  <p className="text-lg text-foreground">10. Dr. Kassian T.T. Amesho, Associate professor, University of Namibia, Namibia.</p>
+                  <p className="text-lg text-foreground">11.   Dr. Cristina Efremov, Associate Professor, Technical University of Moldova, Moldova.</p>
+                  <p className="text-lg text-foreground">12.  Dr. Karthikeyan.T, Senior Lecturer, University of Technology & Applied Sciences, Muscat.</p>
+
+
                 </div>
               </div>
               {/* National Advisory Committee */}
@@ -52,26 +59,8 @@ const AdvisoryCommittee = () => {
                   <p className="text-lg text-foreground">15. Dr. C. C. Reddy, Professor, IIT Ropar</p>
                   <p className="text-lg text-foreground">16. Dr. R. Kiranmayi, Professor, JNTUA</p>
                   <p className="text-lg text-foreground">17. Dr. N. Visali, Professor, JNTUA</p>
-
-
-
                 </div>
               </div>
-              
-
-              {/* International Advisory Committee
-              <div>
-                <h2 className="text-2xl font-bold text-primary mb-6">International Advisory Committee:</h2>
-                <div className="space-y-3">
-                  <p className="text-lg text-foreground">1. Dr. Apel Mahmud, Professor, Flinders University, Australia</p>
-                  <p className="text-lg text-foreground">2. Dr. Yanxia Sun, Professor, University of Johannesburg, South Africa</p>
-                  <p className="text-lg text-foreground">3. Dr. Meisam Mahdavi, Professor, University of Jaen, Spain</p>
-                  <p className="text-lg text-foreground">4. Dr. Sanjeevikumar Padmanaban, Professor, University of South-Eastern Norway, Norway</p>
-                  <p className="text-lg text-foreground">5. Dr. Geno Peter, Professor, University of Technology Sarawak, Malaysia</p>
-                  <p className="text-lg text-foreground">6. Dr. Mahajan Sagar Bhaskar, Professor, Prince Sultan University, Saudi Arabia</p>
-                  <p className="text-lg text-foreground">7. Dr. Amjad Anvari-Moghaddam, Associate Professor, Aalborg University, Denmark</p>
-                </div>
-              </div> */}
             </div>
           </ContentBox>
         </div>
