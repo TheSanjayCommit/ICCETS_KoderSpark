@@ -115,6 +115,8 @@ const CallForPapers = () => {
         "Nanotechnology-Enabled Security Features in Embedded Systems"
       ]
     }
+    
+    
   ];
 
   return (
@@ -146,6 +148,10 @@ const CallForPapers = () => {
                   </ul>
                 </div>
               ))}
+              {/* Added paragraph below Theme 11 */}
+              <p className="text-foreground leading-relaxed pt-6 border-t border-muted">
+                We encourage authors to submit papers on these and related themes/topics, and look forward to welcoming you to our conference.
+              </p>
             </div>
           </ContentBox>
         </div>
