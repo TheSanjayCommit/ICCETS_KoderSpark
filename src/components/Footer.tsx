@@ -8,7 +8,7 @@ const Footer = () => {
           <h3 className="text-xl sm:text-2xl font-bold mb-4 sm:mb-6">Important Dates</h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-3 sm:gap-4 max-w-5xl mx-auto">
             <div className="p-3 sm:p-4 hover:scale-105 transition-transform duration-300 bg-muted/30 rounded-lg">
-              <p className="font-semibold text-foreground text-sm sm:text-base">Firm deadline:</p>
+              <p className="font-semibold text-foreground text-sm sm:text-base">Last date of submission </p>
               <p className="text-muted-foreground text-sm">10 January 2026</p>
             </div>
             <div className="p-3 sm:p-4 hover:scale-105 transition-transform duration-300 bg-muted/30 rounded-lg">

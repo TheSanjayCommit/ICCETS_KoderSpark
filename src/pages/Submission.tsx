@@ -6,20 +6,64 @@ import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { CheckCircle, FileText, Download, ExternalLink } from "lucide-react";
 
+// const Submission = () => {
+//   const submissionGuidelines = [
+//   "Each paper can have a maximum of **6 authors**.",
+//   "Author names and affiliations must be entered during submission in the **CMT portal** and cannot be changed later.",
+//   "The list of authors in the paper must **exactly match** the CMT submission.",
+//   "Correspondence will be sent to **all listed authors**, so ensure that all email addresses in CMT are correct.",
+//   "All authors are required to **sign the copyright form**.",
+//   "Include a **brief author contribution statement** in each paper.",
+//   "Papers must be **at least 5 pages**, excluding references.",
+//   "Figures and images must have a **resolution of at least 600 dpi**.",
+//   "Each paper must include a **minimum of 15 references**.",
+//   "Only **Scopus-indexed papers** should be cited in the references.",
+//   "**Self-citations are not allowed.** Papers containing self-citations will be rejected.",
+//   "Authors not following these guidelines may face **desk rejection before review**."
+// ];
+
+
+
+
+
 const Submission = () => {
   const submissionGuidelines = [
-    "Each paper can have a maximum of 6 authors.",
-    "Author names and affiliations must be entered during submission in the CMT portal and cannot be changed later.",
-    "The list of authors in the paper must exactly match the CMT submission.",
-    "Correspondence will be sent to all listed authors, so ensure that all email addresses in CMT are correct.",
-    "All authors are required to sign the copyright form.",
-    "Include a brief author contribution statement in each paper.",
-    "Papers must be at least 5 pages, excluding references.",
-    "Figures and images must have a resolution of at least 600 dpi.",
-    "Each paper must include a minimum of 15 references.",
-    "Only Scopus-indexed papers should be cited in the references.",
-    "Self-citations are not allowed. Papers containing self-citations will be rejected.",
-    "Authors not following these guidelines may face desk rejection before review."
+    <>
+      Each paper can have a <span className="font-semibold text-orange-600">maximum of 6 authors</span>.
+    </>,
+    <>
+      Author names and affiliations must be entered during submission in the <span className="font-semibold text-blue-700">CMT portal</span> and cannot be changed later.
+    </>,
+    <>
+      The list of authors in the paper must <span className="font-semibold text-green-700">exactly match</span> the CMT submission.
+    </>,
+    <>
+      Correspondence will be sent to <span className="font-semibold text-purple-700">all listed authors</span>, so ensure that all email addresses in CMT are correct.
+    </>,
+    <>
+      All authors are required to <span className="font-semibold text-red-700">sign the copyright form</span>.
+    </>,
+    <>
+      Include a <span className="font-semibold text-teal-700">brief author contribution statement</span> in each paper.
+    </>,
+    <>
+      Papers must be <span className="font-semibold text-indigo-700">at least 5 pages</span>, excluding references.
+    </>,
+    <>
+      Figures and images must have a <span className="font-semibold text-blue-600">resolution of at least 600 dpi</span>.
+    </>,
+    <>
+      Each paper must include a <span className="font-semibold text-orange-700">minimum of 15 references</span>.
+    </>,
+    <>
+      Only <span className="font-semibold text-primary">Scopus-indexed papers</span> should be cited in the references.
+    </>,
+    <>
+      <span className="font-semibold text-red-600">Self-citations are not allowed.</span> Papers containing self-citations will be rejected.
+    </>,
+    <>
+      Authors not following these guidelines may face <span className="font-semibold text-red-700">desk rejection before review</span>.
+    </>,
   ];
 
   return (

@@ -6,7 +6,7 @@ import PageBanner from "@/components/PageBanner";
 const CallForPapers = () => {
   const themes = [
     {
-      title: "Theme 1: Computation Intelligence in Electrical Engineering",
+      title: "Track 1: Computation Intelligence in Electrical Engineering",
       topics: [
         "Neural Networks and Deep Learning Applications",
         "Fuzzy Logic and Soft Computing Techniques",
@@ -16,7 +16,7 @@ const CallForPapers = () => {
       ]
     },
     {
-      title: "Theme 2: Renewable Energy sources and Technology",
+      title: "Track 2: Renewable Energy sources and Technology",
       topics: [
         "Solar Energy Technologies",
         "Wind Energy Systems",
@@ -26,7 +26,7 @@ const CallForPapers = () => {
       ]
     },
     {
-      title: "Theme 3: Power Electronics Controllers for Power Systems",
+      title: "Track 3: Power Electronics Controllers for Power Systems",
       topics: [
         "Advanced Control Techniques for Power Converters",
         "Grid-Tied Inverter Control and Synchronization",
@@ -36,7 +36,7 @@ const CallForPapers = () => {
       ]
     },
     {
-      title: "Theme 4: Electric and Hybrid Vehicles and Energy storage",
+      title: "Track 4: Electric and Hybrid Vehicles and Energy storage",
       topics: [
         "Battery Technologies and Management Systems",
         "Electric Drive Systems and Motor Control",
@@ -46,7 +46,7 @@ const CallForPapers = () => {
       ]
     },
     {
-      title: "Theme 5: Artificial Intelligence and Machine Learning",
+      title: "Track 5: Artificial Intelligence and Machine Learning",
       topics: [
         "Deep Learning Architectures and Applications",
         "Reinforcement Learning and Autonomous Systems",
@@ -56,7 +56,7 @@ const CallForPapers = () => {
       ]
     },
     {
-      title: "Theme 6: Edge Computing and IoT",
+      title: "Track 6: Edge Computing and IoT",
       topics: [
         "Edge AI and Real-Time Data Processing",
         "IoT Network Architectures and Protocols",
@@ -66,7 +66,7 @@ const CallForPapers = () => {
       ]
     },
     {
-      title: "Theme 7: Quantum Computing and Information",
+      title: "Track 7: Quantum Computing and Information",
       topics: [
         "Quantum Algorithms and Complexity",
         "Quantum Cryptography and Secure Communication",
@@ -76,7 +76,7 @@ const CallForPapers = () => {
       ]
     },
     {
-      title: "Theme 8: Cloud Computing and Cyber security",
+      title: "Track 8: Cloud Computing and Cyber security",
       topics: [
         "Cloud Security Architecture and Best Practices",
         "Data Privacy and Compliance in Cloud Environments",
@@ -86,7 +86,7 @@ const CallForPapers = () => {
       ]
     },
     {
-      title: "Theme 9: Robotics and Autonomous Systems",
+      title: "Track 9: Robotics and Autonomous Systems",
       topics: [
         "Robot Perception and Sensor Fusion",
         "Path Planning and Navigation Algorithms",
@@ -96,7 +96,7 @@ const CallForPapers = () => {
       ]
     },
     {
-      title: "Theme 10: Image Processing and VLSI Design",
+      title: "Track 10: Image Processing and VLSI Design",
       topics: [
         "Hardware Architectures for Real-Time Image Processing",
         "VLSI Implementation of Image Compression Algorithms",
@@ -106,7 +106,7 @@ const CallForPapers = () => {
       ]
     },
     {
-      title: "Theme 11: Embedded Systems and Nano Technology",
+      title: "Track 11: Embedded Systems and Nano Technology",
       topics: [
         "Nano electronics in Embedded System Design",
         "Nano materials for Sensor Development in Embedded Systems",
@@ -131,7 +131,7 @@ const CallForPapers = () => {
             <h2 className="text-3xl font-bold mb-6">Call for Papers</h2>
             <p className="text-foreground leading-relaxed mb-8">
               The ICCETS-2026 is a platform for both industry and academia to present and discuss innovations, trends, and concerns as well as challenges encountered and solutions in computational intelligence, emerging technologies, and sustainability. We invite researchers, professionals, and industry experts to submit their original, unpublished research contributions to these tracks that are not currently under consideration by another conference/journal, and be part of a collaborative effort to shape the future of technology and sustainability.
-              <p>The regular sessions of the conference will cover a range of technical themes/topics, including but not limited to the following:</p>
+              <p>The regular sessions of the conference will cover a range of technical themes, including but not limited to the following:</p>
             </p>
 
             <div className="space-y-8">
@@ -150,7 +150,7 @@ const CallForPapers = () => {
               ))}
               {/* Added paragraph below Theme 11 */}
               <p className="text-foreground leading-relaxed pt-6 border-t border-muted">
-                We encourage authors to submit papers on these and related themes/topics, and look forward to welcoming you to our conference.
+                We encourage authors to submit papers on these and related themes and look forward to welcoming you to our conference.
               </p>
             </div>
           </ContentBox>

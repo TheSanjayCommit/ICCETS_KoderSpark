@@ -48,17 +48,16 @@ const AdvisoryCommittee = () => {
                   <p className="text-lg text-foreground">4. Dr. M. Veechari, Professor, IIT Delhi</p>
                   <p className="text-lg text-foreground">5. Dr. K. Srinivas Reddy, Professor, IIT Madras</p>
                   <p className="text-lg text-foreground">6. Dr. S.T.G. Raghukanth, Professor, IIT Madras</p>
-                  <p className="text-lg text-foreground">7. Dr. D. Thukaram, Rtd, Professor, IISc Bangalore</p>
-                  <p className="text-lg text-foreground">8. Dr. K. R. Murali Mohan, Rtd, Scientist-G, DST</p>
-                  <p className="text-lg text-foreground">9. Dr. N.V Srikanth Professor, NIT Warangal</p>
-                  <p className="text-lg text-foreground">10. Dr. M. Suryakalavathi, Professor, JNTUH</p>
-                  <p className="text-lg text-foreground">11. Dr. K. Vaisakh, Professor, Andhra University</p>
-                  <p className="text-lg text-foreground">12. Dr. P. Sujatha, Professor, JNTUA</p>
-                  <p className="text-lg text-foreground">13. Dr. C. Shoba Bindu, Professor, JNTUA</p>
-                  <p className="text-lg text-foreground">14. Dr. V.C. Usha Reddy, Associate Professor, SVU</p>
-                  <p className="text-lg text-foreground">15. Dr. C. C. Reddy, Professor, IIT Ropar</p>
-                  <p className="text-lg text-foreground">16. Dr. R. Kiranmayi, Professor, JNTUA</p>
-                  <p className="text-lg text-foreground">17. Dr. N. Visali, Professor, JNTUA</p>
+                  <p className="text-lg text-foreground">7. Dr. K. R. Murali Mohan, Rtd, Scientist-G, DST</p>
+                  <p className="text-lg text-foreground">8. Dr. N.V Srikanth Professor, NIT Warangal</p>
+                  <p className="text-lg text-foreground">9. Dr. M. Suryakalavathi, Professor, JNTUH</p>
+                  <p className="text-lg text-foreground">10. Dr. K. Vaisakh, Professor, Andhra University</p>
+                  <p className="text-lg text-foreground">11. Dr. P. Sujatha, Professor, JNTUA</p>
+                  <p className="text-lg text-foreground">12. Dr. C. Shoba Bindu, Professor, JNTUA</p>
+                  <p className="text-lg text-foreground">13. Dr. V.C. Usha Reddy, Associate Professor, SVU</p>
+                  <p className="text-lg text-foreground">14. Dr. C. C. Reddy, Professor, IIT Ropar</p>
+                  <p className="text-lg text-foreground">15. Dr. R. Kiranmayi, Professor, JNTUA</p>
+                  <p className="text-lg text-foreground">16. Dr. N. Visali, Professor, JNTUA</p>
                 </div>
               </div>
             </div>
