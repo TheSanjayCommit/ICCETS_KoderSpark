@@ -571,8 +571,8 @@ const Submission = () => {
                       className="w-full justify-between group bg-primary hover:bg-primary/90"
                       onClick={() => {
                         const link = document.createElement("a");
-                        link.href = "/ICCETS 2026_Template_word.docx"; // file inside public folder
-                        link.download = "ICCETS 2026_Template_word.docx";
+                        link.href = "/ICCETS_2026_Template_word.docx"; // file inside public folder
+                        link.download = "ICCETS_2026_Template_word.docx";
                         document.body.appendChild(link);
                         link.click();
                         document.body.removeChild(link);
