@@ -150,7 +150,7 @@ const CallForPapers = () => {
               ))}
               {/* Added paragraph below Theme 11 */}
               <p className="text-foreground leading-relaxed pt-6 border-t border-muted">
-                We encourage authors to submit papers on these and related themes and look forward to welcoming you to our conference.
+               ⮞ We encourage authors to submit papers on these and related themes and look forward to welcoming you to our conference.
               </p>
             </div>
           </ContentBox>

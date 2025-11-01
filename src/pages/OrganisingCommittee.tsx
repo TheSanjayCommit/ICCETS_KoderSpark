@@ -385,6 +385,7 @@ const OrganisingCommittee = () => {
                     <p>Dr. K. Vijaya Bhaskar AU, Rajampet</p>
                     <p>Mr. R. Madhan Mohan, AU, Rajampet</p>
                     <p>Mr. M. Ramesh, AU, Rajampet</p>
+                    <p>Dr. P. Suresh Babu, Au, Rajampet</p>
                   </div>
                 </div>
 

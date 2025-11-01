@@ -256,7 +256,7 @@ const Index = () => {
           <div className="mt-12 animate-fade-in">
             <ContentBox className="hover:shadow-xl transition-all duration-500 hover:scale-[1.01]">
               <h2 className="text-3xl font-bold mb-6 bg-gradient-to-r from-primary to-green-600 bg-clip-text text-transparent">
-                About EEE Department
+                ELECTRICAL AND ELECTRONICS ENGINEERING DEPARTMENT
               </h2>
               <div className="grid lg:grid-cols-[300px,1fr] gap-8 items-start">
                 <div className="flex justify-center">
@@ -275,15 +275,15 @@ const Index = () => {
                         />
                       </div>
                     </a>
-                    <h3 className="text-xl font-semibold">ELECTRICAL &</h3>
+                    {/* <h3 className="text-xl font-semibold">ELECTRICAL &</h3>
                     <p className="text-sm text-muted-foreground">
                       ELECTRONICS ENGINEERING
-                    </p>
+                    </p> */}
                   </div>
                 </div>
                 <div className="text-foreground leading-relaxed space-y-4">
                   <h3 className="text-xl font-semibold text-primary mb-3">
-                    About EEE Department:
+                    ELECTRICAL AND ELECTRONICS ENGINEERING DEPARTMENT
                   </h3>
                   <p>
                     The Department of Electrical and Electronics Engineering
