@@ -296,7 +296,7 @@ const Index = () => {
                   </p>
                   <p>
                     In 2024, the EEE Department received NBA re-accreditation
-                    from New Delhi, reaffirming its commitment to academic
+                    from National Board of Accreditation (NBA), New Delhi, reaffirming its commitment to academic
                     excellence. From 2024–25 onward, the programs formerly under
                     JNTUA are now offered under Annamacharya University, marking
                     a new chapter in the department’s development.
